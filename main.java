@@ -6,6 +6,4 @@ public class main {
             System.out.println("No argument given.");
         }
     }
-
-
 }
